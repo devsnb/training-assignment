@@ -16,6 +16,6 @@ public class Bank {
     }
 
     public double getBalance() {
-        return  balance;
+        return balance;
     }
 }

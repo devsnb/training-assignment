@@ -30,8 +30,8 @@ public class Main {
         System.out.println("Number of subjects for students");
         inputLength = input.nextInt();
 
-        int [] marks1 = new  int[inputLength];
-        int [] marks2 = new  int[inputLength];
+        int[] marks1 = new int[inputLength];
+        int[] marks2 = new int[inputLength];
 
         System.out.println("Enter student1 marks :");
         for (int i = 0; i < inputLength; i++) {
